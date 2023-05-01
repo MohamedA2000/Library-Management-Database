@@ -1,3 +1,3 @@
-# COE-848-Library-Database
+# COE-848-Library-Management-System
 
-A Library Database created for my fundamentals of data engineering course.
+This is a library management system that allows users to search for books by title, author, publication date, genre, and availability. It also displays fines associated with customer accounts, customer information, and book locations in the library. The application is built using Java and utilizes SQL queries to interact with a database.
